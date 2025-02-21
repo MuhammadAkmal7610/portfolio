@@ -1,0 +1,10 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.circle-bg {
+  background: linear-gradient(180deg, #4a4842 0%, #33312c 100%);
+}
+html {
+  scroll-behavior: smooth;
+}
